@@ -1,6 +1,6 @@
 # Deep Learning projects
 
-this repo contain some projects make it during learn Deep learning 
+this repo contains some projects make it during learn Deep learning 
 
 ---
 ## Prerequisites
